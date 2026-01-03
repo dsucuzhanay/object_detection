@@ -1,0 +1,11 @@
+# virtual environment
+venv/
+
+# python
+__pycache__/
+detr/__pycache__/
+
+# artifacts - data
+detr/datasets/
+detr/checkpoints/
+detr/logs/
